@@ -77,7 +77,7 @@ AugmentEd ────────computer-vision
 
 ### Computer Vision
 ```
-./computer-vision/vision.py 
+./computer-vision/vision.py --type 1 #or 2 or 3
 ```
 
 AugmentEd is written exclusively in python using the OpenCV library. `vision.py` starts by detecting the images on the piece of paper. The frame is analysed by the ML model.
